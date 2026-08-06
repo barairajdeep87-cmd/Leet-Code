@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
@@ -40,9 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
