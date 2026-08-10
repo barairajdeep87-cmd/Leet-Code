@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |
 | ------- |
