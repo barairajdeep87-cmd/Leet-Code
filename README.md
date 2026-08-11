@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0290-word-pattern) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
