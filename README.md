@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Greedy
