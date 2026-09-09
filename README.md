@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0290-word-pattern) |
+| [1021-remove-outermost-parentheses](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
