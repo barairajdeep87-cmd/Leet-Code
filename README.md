@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0290-word-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
