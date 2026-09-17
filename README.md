@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0231-power-of-two) |
 ## Quicksort
 |  |
 | ------- |
@@ -115,5 +116,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
