@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0229-majority-element-ii](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0290-word-pattern) |
 ## Linked List
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -124,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0231-power-of-two) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
