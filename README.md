@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0229-majority-element-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
