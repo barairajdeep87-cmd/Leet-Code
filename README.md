@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -126,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/barairajdeep87-cmd/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
